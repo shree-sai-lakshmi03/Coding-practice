@@ -124,7 +124,7 @@ It's about consistency.
 ## 💛 Favorite Reminder
 
 > **"Even the strongest heroes began at Level 1.
-> Every line of code is another step toward the person you're becoming."**
+> Every line of code is another step toward the person you're becoming...."**
 
 ---
 
