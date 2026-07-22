@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎮 Pixel Training Grounds
+# 🎮 Pixel Training Grounds!
 
 ### *One Bug at a Time.*
 
